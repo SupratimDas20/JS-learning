@@ -17,7 +17,7 @@ const evidenceLog = [
     { id: 2, item: "Broken Glass", location: "Living Room" },
     { id: 3, item: "Red Fiber Strand", location: "Door Handle" },
 ];
-
+console.log("Hello");
 console.table(evidenceLog);
 
 
