@@ -18,6 +18,7 @@ const evidenceLog = [
     { id: 3, item: "Red Fiber Strand", location: "Door Handle" },
 ];
 console.log("Hello");
+console.log("Hello");
 console.table(evidenceLog);
 
 
