@@ -23,13 +23,19 @@ console.log("Hello");
 
 console.table(evidenceLog);
 
+console.group("Group starts")
+console.log("My log 1 ");
+console.log("My log 2 ");
+console.log("My log 3 ");
+console.groupEnd();
 
+console.time("Time taken to solve the case");
+let dnaMatches = 0;
+for(let i = 0; i < 1_000_000; i++) {
+    dnaMatches += 1;
+}
 
-
-
-
-
-
+console.timeEnd("Time taken to solve the case");
 
 
 
