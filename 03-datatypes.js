@@ -1,4 +1,5 @@
 console.log(typeof "Chaicode")
+console.log(typeof "Hello World")
 console.log(typeof 42)
 console.log(typeof 42n)
 console.log(typeof true)
