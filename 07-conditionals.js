@@ -12,3 +12,4 @@ if (playerHealth <= 30 && hasSword) {
     console.log("Player is severely injured and has a sword");
 }
 hello
+hello
