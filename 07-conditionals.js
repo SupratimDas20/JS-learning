@@ -11,5 +11,23 @@ if (playerHealth <= 50 && hasShield) {
 if (playerHealth <= 30 && hasSword) {
     console.log("Player is severely injured and has a sword");
 }
-hello
-hello
+
+switch(choosenPath) {
+    case "left":
+        console.log("Player chose the left path");
+        break;
+    case "right":
+        console.log("Player chose the right path");
+        break;
+    case "forward":
+        console.log("Player chose the forward path");
+        break;
+    case "backward":
+        console.log("Player chose the backward path");
+        break;
+    case "top":
+        console.log("Player chose the top path");
+        break;
+    default:
+        console.log("Player made no choice");
+}
