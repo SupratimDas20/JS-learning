@@ -31,4 +31,3 @@ switch(choosenPath) {
     default:
         console.log("Player made no choice");
 }
-hello world
