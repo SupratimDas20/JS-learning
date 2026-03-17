@@ -5,3 +5,5 @@ const name = "Shaktiman";
 console.log(city)
 console.log(age)
 console.log(name)
+hello
+s
