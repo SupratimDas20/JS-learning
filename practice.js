@@ -9,4 +9,3 @@ console.log(age)
 console.log(hero_name)
 console.log(address)
 console.log(air)
-hello
