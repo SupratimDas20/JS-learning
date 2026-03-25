@@ -9,3 +9,12 @@ console.log(age)
 console.log(hero_name)
 console.log(address)
 console.log(air)
+
+let a=10;
+let b=3;
+console.log(a+b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b);
+console.log(a % b);
+
