@@ -22,5 +22,11 @@ console.log(5=='5');
 console.log(0==false);
 console.log(5==='5');
 console.log(5===5);
-hekko
+
+let fruits = ["Apple", "Mango", "Banana", "Grapes", "Orange"];
+
+console.log(fruits[0]); // Output: Apple
+console.log(fruits[1]); // Output: Mango
+console.log(fruits[4]); // Output: Orange
+
 
