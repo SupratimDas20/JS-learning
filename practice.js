@@ -32,6 +32,6 @@ console.log(fruits[4]); // Output: Orange
 function add(a, b) {
     return a + b;
 }
-add(a,b)
+add(a,b)//hee
 
 
