@@ -1,3 +1,5 @@
+const clue1
+
 let city = "Delhi";
 var age = 24;
 let hero_name = "Shaktiman"
