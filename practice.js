@@ -1,5 +1,13 @@
-const clue1
+const clue1 = "Muddy footprint near the window";
+const clue2 = "Broken glass on the table";
+console.log("Clue Found", clue1);
+console.log("Clue Found", clue2);
 
+const suspectName="HeroAlam";
+const suspectAge=200;
+console.log("Suspect:",suspectName,"| Age", suspectAge);
+console.warn("Warning: Fingerprint evedance detected");
+console.error("Warning: Fingerprint evedance detected");
 let city = "Delhi";
 var age = 24;
 let hero_name = "Shaktiman"
@@ -34,6 +42,6 @@ console.log(fruits[4]); // Output: Orange
 function add(a, b) {
     return a + b;
 }
-add(a,b)
+add(a, b)
 
 
