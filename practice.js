@@ -254,3 +254,5 @@ console.log("Investigation score:", caseScore); // Output: Investigation score: 
 
 
 
+hello
+kool
