@@ -253,6 +253,3 @@ console.log("Investigation score:", caseScore); // Output: Investigation score: 
 //    to someone reading the code cold six months from now. Be kind to future-you.
 
 
-
-hello
-kool
